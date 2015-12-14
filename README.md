@@ -14,7 +14,6 @@ These documents are not fully updated with the new features, please be pattient 
 
 - [Install](#install)
 - [Principles](#principles-of-mysql-live)
-- [Passport](#passport)
 - [Contributors](#contributors)
 - [Community](#community)
 - [Todo](#todo)
