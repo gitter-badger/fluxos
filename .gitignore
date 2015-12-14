@@ -1,0 +1,14 @@
+node_modules
+obj
+bin
+.git
+.settings
+.vs/*
+.vscode/*
+/bin/*.dll
+zip_releases
+website
+.npm
+.idea
+.versions
+compiled

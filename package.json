@@ -1,0 +1,49 @@
+{
+  "name": "fluxos",
+  "version": "0.0.1",
+  "description": "The Flux library especially for Typescript coders. Made with and works excellent with ES6.",
+  "main": "./compiled/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "events": "^1.1.0",
+    "flux": "^2.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-typescript": "^2.9.2",
+    "gulp-uglify": "^1.5.1",
+    "merge2": "^0.3.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodets/fluxos.git"
+  },
+  "keywords": [
+    "fluxos",
+    "flux",
+    "react",
+    "react-flux",
+    "flux-es6",
+    "nodets"
+  ],
+  "files": [
+    "LICENSE",
+    "README.md",
+    "compiled/"
+  ],
+  "author": "Makis Maropoulos <makis@ideopod.com> (https://github.com/kataras)",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/nodets/fluxos/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/nodets/fluxos/issues"
+  },
+  "typings": "./compiled/index",
+  "homepage": "https://github.com/nodets/fluxos#readme"
+}
