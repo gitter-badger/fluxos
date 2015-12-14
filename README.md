@@ -6,6 +6,8 @@
 
 ### [Works excellent with Mysql-Live package also](https://www.gitbook.com/book/kataras/mysql-live/)
 
+[![Join the chat at https://gitter.im/nodets/fluxos](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodets/fluxos?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 
 ## Table of Contents
