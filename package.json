@@ -1,6 +1,6 @@
 {
   "name": "fluxos",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The Flux library especially for Typescript coders. Made with and works excellent with ES6.",
   "main": "./compiled/index.js",
   "scripts": {

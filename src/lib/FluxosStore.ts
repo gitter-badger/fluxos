@@ -1,3 +1,5 @@
+/// <reference path="../../typings/node/node.d.ts" />
+
 import * as events  from "events";
 import FluxosPayload from "./FluxosPayload";
 import FluxosDispatcher from "./FluxosDispatcher";
